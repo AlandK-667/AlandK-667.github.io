@@ -1,0 +1,32 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #b39797;
+    background-image: url(./cyberpunk-explicacion-del-final-de-edgerunners-sobreviven-david-y-lucy.jpg);
+    
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+nav {
+    font-size: 160%;
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;  
+    color: #f3f3f3 !important; 
+}
+
+.Navc {
+    color: #b39797;
+}
+
+#BlahTitle {
+    text-align: center;
+    background-color: black;
+}
+
+
+div {
+     
+}
